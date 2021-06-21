@@ -39,26 +39,26 @@ console.log(keyPressed);
 	if(keyPressed == '71')
 	{
 		block_x = 100;
-		new_image('https://i.pinimg.com/originals/8a/38/7b/8a387b4505e849dcd9b2270cff2820c3.gif');
+		new_image('gr.png');
 		console.log("g");
 	}
 	
 	if(keyPressed == '89')
 	{
 		block_x = 100;
-		new_image('https://i.pinimg.com/originals/b1/6a/8d/b16a8ddf49dcf4e2f40166ece3da2648.gif');
+		new_image('yr.png');
 		console.log("y");
 	}
 	if(keyPressed == '80')
 	{
 		block_x = 100;
-		new_image('https://i.pinimg.com/originals/07/e4/85/07e485440b44864d4202e8c7b9a28597.gif');
+		new_image('pr.png');
 		console.log("p");
 	}
 	if(keyPressed == '66')
 	{
 		block_x = 100;
-	new_image('https://www.pngfind.com/pngs/m/263-2638009_blue-power-ranger-png-blue-power-ranger-cartoon.png');
+	new_image('br.png');
 	console.log("b");
 	}
 	
